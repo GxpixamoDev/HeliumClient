@@ -46,3 +46,8 @@ A README does not make a GitHub repository private. Keep proprietary source in a
 Helium Client is maintained by GxpixamoDev. Horizon and its contributors provide the existing Rust foundation; see the preserved upstream notices. Helium Render Engine is the name of Helium's rendering work and does not imply ownership of third-party code.
 
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+
+## Virus Check
+
+For those who want to see if it is safe or not, you can check the **VirusTotal** verification: https://www.virustotal.com/gui/file/809070a9f3b2a8ff9af1b1befda7e35fd80606d196f45579282df6d53a0eaa61?nocache=1
